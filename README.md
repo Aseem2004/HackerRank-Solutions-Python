@@ -18,4 +18,5 @@
 <ul type="disc">
 <li><a href="https://www.hackerrank.com/challenges/py-hello-world/problem?isFullScreen=true">Say "Hello, World!" With Python</li>
 <li><a href="https://www.hackerrank.com/challenges/py-if-else/problem?isFullScreen=true">Python If-Else</li>
+<li><a href="https://www.hackerrank.com/challenges/python-arithmetic-operators/problem?isFullScreen=true">Arithmetic Operators</li>
 </ul>
