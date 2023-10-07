@@ -20,4 +20,5 @@
 <li><a href="https://www.hackerrank.com/challenges/py-if-else/problem?isFullScreen=true">Python If-Else</li>
 <li><a href="https://www.hackerrank.com/challenges/python-arithmetic-operators/problem?isFullScreen=true">Arithmetic Operators</li>
 <li><a href="https://www.hackerrank.com/challenges/python-division/problem?isFullScreen=true">Python: Division</li>
+<li><a href="https://www.hackerrank.com/challenges/python-loops/problem?isFullScreen=true">Loops</li>
 </ul>
