@@ -21,5 +21,8 @@
 <li><a href="https://www.hackerrank.com/challenges/python-arithmetic-operators/problem?isFullScreen=true">Arithmetic Operators</li>
 <li><a href="https://www.hackerrank.com/challenges/python-division/problem?isFullScreen=true">Python: Division</li>
 <li><a href="https://www.hackerrank.com/challenges/python-loops/problem?isFullScreen=true">Loops</li>
+</ul>
+<b>Medium:</b>
+<ul type="disc">
 <li><a href="https://www.hackerrank.com/challenges/write-a-function/problem?isFullScreen=true">Write a function</li>
 </ul>
