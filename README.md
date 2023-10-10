@@ -22,6 +22,7 @@
 <li><a href="https://www.hackerrank.com/challenges/python-division/problem?isFullScreen=true">Python: Division</li>
 <li><a href="https://www.hackerrank.com/challenges/python-loops/problem?isFullScreen=true">Loops</li>
 <li><a href="https://www.hackerrank.com/challenges/python-print/problem?isFullScreen=true">Print Function</li>
+<li><a href="https://www.hackerrank.com/challenges/list-comprehensions/problem?isFullScreen=true">List Comprehensions</li>
 </ul>
 <b>Medium:</b>
 <ul type="disc">
