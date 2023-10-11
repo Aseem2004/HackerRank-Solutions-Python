@@ -23,6 +23,7 @@
 <li><a href="https://www.hackerrank.com/challenges/python-loops/problem?isFullScreen=true">Loops</li>
 <li><a href="https://www.hackerrank.com/challenges/python-print/problem?isFullScreen=true">Print Function</li>
 <li><a href="https://www.hackerrank.com/challenges/list-comprehensions/problem?isFullScreen=true">List Comprehensions</li>
+<li><a href="https://www.hackerrank.com/challenges/find-second-maximum-number-in-a-list/problem?isFullScreen=true">Find the Runner-Up Score!</li>
 </ul>
 <b>Medium:</b>
 <ul type="disc">
