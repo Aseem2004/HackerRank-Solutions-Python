@@ -25,6 +25,7 @@
 <li><a href="https://www.hackerrank.com/challenges/list-comprehensions/problem?isFullScreen=true">List Comprehensions</li>
 <li><a href="https://www.hackerrank.com/challenges/find-second-maximum-number-in-a-list/problem?isFullScreen=true">Find the Runner-Up Score!</li>
 <li><a href="https://www.hackerrank.com/challenges/nested-list/problem?isFullScreen=true">Nested Lists</li>
+<li><a href="https://www.hackerrank.com/challenges/finding-the-percentage/problem?isFullScreen=true">Finding the percentage</li>
 </ul>
 <b>Medium:</b>
 <ul type="disc">
