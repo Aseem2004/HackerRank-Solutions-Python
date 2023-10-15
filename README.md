@@ -27,6 +27,7 @@
 <li><a href="https://www.hackerrank.com/challenges/nested-list/problem?isFullScreen=true">Nested Lists</li>
 <li><a href="https://www.hackerrank.com/challenges/finding-the-percentage/problem?isFullScreen=true">Finding the percentage</li>
 <li><a href="https://www.hackerrank.com/challenges/python-lists/problem?isFullScreen=true">Lists</li>
+<li><a href="https://www.hackerrank.com/challenges/python-tuples/problem?isFullScreen=true">Tuples</li>
 </ul>
 <b>Medium:</b>
 <ul type="disc">
