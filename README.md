@@ -30,6 +30,7 @@
 <li><a href="https://www.hackerrank.com/challenges/python-tuples/problem?isFullScreen=true">Tuples</li>
 <li><a href="https://www.hackerrank.com/challenges/swap-case/problem?isFullScreen=true">sWAP cASE</li>
 <li><a href="https://www.hackerrank.com/challenges/python-string-split-and-join/problem?isFullScreen=true">String Split and Join</li>
+<li><a href="https://www.hackerrank.com/challenges/whats-your-name/problem?isFullScreen=true">What's Your Name?</li>
 </ul>
 <b>Medium:</b>
 <ul type="disc">
