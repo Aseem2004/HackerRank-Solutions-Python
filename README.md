@@ -33,6 +33,7 @@
 <li><a href="https://www.hackerrank.com/challenges/whats-your-name/problem?isFullScreen=true">What's Your Name?</li>
 <li><a href="https://www.hackerrank.com/challenges/python-mutations/problem?isFullScreen=true">Mutations</li>
 <li><a href="https://www.hackerrank.com/challenges/find-a-string/problem?isFullScreen=true">Find a string</li>
+<li><a href="https://www.hackerrank.com/challenges/string-validators/problem?isFullScreen=true">String Validators</li>
 </ul>
 <b>Medium:</b>
 <ul type="disc">
