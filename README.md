@@ -34,6 +34,7 @@
 <li><a href="https://www.hackerrank.com/challenges/python-mutations/problem?isFullScreen=true">Mutations</li>
 <li><a href="https://www.hackerrank.com/challenges/find-a-string/problem?isFullScreen=true">Find a string</li>
 <li><a href="https://www.hackerrank.com/challenges/string-validators/problem?isFullScreen=true">String Validators</li>
+<li><a href="https://www.hackerrank.com/challenges/text-wrap/problem?isFullScreen=true">Text Wrap</li>
 </ul>
 <b>Medium:</b>
 <ul type="disc">
