@@ -38,6 +38,7 @@
 <li><a href="https://www.hackerrank.com/challenges/designer-door-mat/problem?isFullScreen=true">Designer Door Mat</li>
 <li><a href="https://www.hackerrank.com/challenges/python-string-formatting/problem?isFullScreen=true">String Formatting</li>
 <li><a href="https://www.hackerrank.com/challenges/alphabet-rangoli/problem?isFullScreen=true">Alphabet Rangoli</li>
+<li><a href="https://www.hackerrank.com/challenges/capitalize/problem?isFullScreen=true">Capitalize!</li>
 </ul>
 <b>Medium:</b>
 <ul type="disc">
