@@ -44,4 +44,5 @@
 <ul type="disc">
 <li><a href="https://www.hackerrank.com/challenges/write-a-function/problem?isFullScreen=true">Write a function</li>
 <li><a href="https://www.hackerrank.com/challenges/the-minion-game/problem?isFullScreen=true">The Minion Game</li>
+<li><a href="https://www.hackerrank.com/challenges/merge-the-tools/problem?isFullScreen=true">Merge the Tools!</li>
 </ul>
