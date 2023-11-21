@@ -40,6 +40,7 @@
 <li><a href="https://www.hackerrank.com/challenges/alphabet-rangoli/problem?isFullScreen=true">Alphabet Rangoli</li>
 <li><a href="https://www.hackerrank.com/challenges/capitalize/problem?isFullScreen=true">Capitalize!</li>
 <li><a href="https://www.hackerrank.com/challenges/itertools-product/problem?isFullScreen=true">itertools.product()</li>
+<li><a href="https://www.hackerrank.com/challenges/collections-counter/problem?isFullScreen=true">collections.Counter()</li>
 </ul>
 <b>Medium:</b>
 <ul type="disc">
