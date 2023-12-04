@@ -45,6 +45,7 @@
 <li><a href="https://www.hackerrank.com/challenges/polar-coordinates/problem?isFullScreen=true">Polar Coordinates</li>
 <li><a href="https://www.hackerrank.com/challenges/py-introduction-to-sets/problem?isFullScreen=true">Introduction to Sets</li>
 <li><a href="https://www.hackerrank.com/challenges/defaultdict-tutorial/problem?isFullScreen=true">DefaultDict Tutorial</li>
+<li><a href="https://www.hackerrank.com/challenges/calendar-module/problem?isFullScreen=true">Calendar Module</li>
 </ul>
 <b>Medium:</b>
 <ul type="disc">
