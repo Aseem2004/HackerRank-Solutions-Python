@@ -46,6 +46,7 @@
 <li><a href="https://www.hackerrank.com/challenges/py-introduction-to-sets/problem?isFullScreen=true">Introduction to Sets</li>
 <li><a href="https://www.hackerrank.com/challenges/defaultdict-tutorial/problem?isFullScreen=true">DefaultDict Tutorial</li>
 <li><a href="https://www.hackerrank.com/challenges/calendar-module/problem?isFullScreen=true">Calendar Module</li>
+<li><a href="https://www.hackerrank.com/challenges/exceptions/problem?isFullScreen=true">Exceptions</li>
 </ul>
 <b>Medium:</b>
 <ul type="disc">
