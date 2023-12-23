@@ -55,4 +55,5 @@
 <li><a href="https://www.hackerrank.com/challenges/the-minion-game/problem?isFullScreen=true">The Minion Game</li>
 <li><a href="https://www.hackerrank.com/challenges/merge-the-tools/problem?isFullScreen=true">Merge the Tools!</li>
 <li><a href="https://www.hackerrank.com/challenges/python-time-delta/problem?isFullScreen=true">Time Delta</li>
+<li><a href="https://www.hackerrank.com/challenges/find-angle/problem?isFullScreen=true">Find Angle MBC</li>
 </ul>
