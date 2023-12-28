@@ -48,6 +48,7 @@
 <li><a href="https://www.hackerrank.com/challenges/calendar-module/problem?isFullScreen=true">Calendar Module</li>
 <li><a href="https://www.hackerrank.com/challenges/exceptions/problem?isFullScreen=true">Exceptions</li>
 <li><a href="https://www.hackerrank.com/challenges/py-collections-namedtuple/problem?isFullScreen=true">Collections.namedtuple()</li>
+<li><a href="https://www.hackerrank.com/challenges/py-collections-ordereddict/problem?isFullScreen=true">Collections.OrderedDict()</li>
 <li><a href="https://www.hackerrank.com/challenges/symmetric-difference/problem?isFullScreen=true">Symmetric Difference</li>
 </ul>
 <b>Medium:</b>
