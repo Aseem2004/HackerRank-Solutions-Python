@@ -50,6 +50,7 @@
 <li><a href="https://www.hackerrank.com/challenges/py-collections-namedtuple/problem?isFullScreen=true">Collections.namedtuple()</li>
 <li><a href="https://www.hackerrank.com/challenges/py-collections-ordereddict/problem?isFullScreen=true">Collections.OrderedDict()</li>
 <li><a href="https://www.hackerrank.com/challenges/symmetric-difference/problem?isFullScreen=true">Symmetric Difference</li>
+<li><a href="https://www.hackerrank.com/challenges/itertools-combinations/problem?isFullScreen=true">itertools.combinations()</li>
 </ul>
 <b>Medium:</b>
 <ul type="disc">
