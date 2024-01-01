@@ -52,6 +52,7 @@
 <li><a href="https://www.hackerrank.com/challenges/symmetric-difference/problem?isFullScreen=true">Symmetric Difference</li>
 <li><a href="https://www.hackerrank.com/challenges/itertools-combinations/problem?isFullScreen=true">itertools.combinations()</li>
 <li><a href="https://www.hackerrank.com/challenges/incorrect-regex/problem?isFullScreen=true">Incorrect Regex</li>
+<li><a href="https://www.hackerrank.com/challenges/py-set-add/problem?isFullScreen=true">Set.add()</li>
 </ul>
 <b>Medium:</b>
 <ul type="disc">
