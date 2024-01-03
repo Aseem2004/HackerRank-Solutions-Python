@@ -53,6 +53,7 @@
 <li><a href="https://www.hackerrank.com/challenges/itertools-combinations/problem?isFullScreen=true">itertools.combinations()</li>
 <li><a href="https://www.hackerrank.com/challenges/incorrect-regex/problem?isFullScreen=true">Incorrect Regex</li>
 <li><a href="https://www.hackerrank.com/challenges/py-set-add/problem?isFullScreen=true">Set.add()</li>
+<li><a href="https://www.hackerrank.com/challenges/itertools-combinations-with-replacement/problem?isFullScreen=true">itertools.combinations_with_replacement()</li>
 </ul>
 <b>Medium:</b>
 <ul type="disc">
