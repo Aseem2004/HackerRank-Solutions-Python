@@ -63,4 +63,5 @@
 <li><a href="https://www.hackerrank.com/challenges/python-time-delta/problem?isFullScreen=true">Time Delta</li>
 <li><a href="https://www.hackerrank.com/challenges/find-angle/problem?isFullScreen=true">Find Angle MBC</li>
 <li><a href="https://www.hackerrank.com/challenges/no-idea/problem?isFullScreen=true">No Idea!</li>
+<li><a href="https://www.hackerrank.com/challenges/word-order/problem?isFullScreen=true">Word Order</li>
 </ul>
