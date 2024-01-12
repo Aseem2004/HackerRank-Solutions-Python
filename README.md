@@ -66,4 +66,5 @@
 <li><a href="https://www.hackerrank.com/challenges/find-angle/problem?isFullScreen=true">Find Angle MBC</li>
 <li><a href="https://www.hackerrank.com/challenges/no-idea/problem?isFullScreen=true">No Idea!</li>
 <li><a href="https://www.hackerrank.com/challenges/word-order/problem?isFullScreen=true">Word Order</li>
+<li><a href="https://www.hackerrank.com/challenges/compress-the-string/problem?isFullScreen=true">Compress the String!</li>
 </ul>
