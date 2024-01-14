@@ -1,0 +1,6 @@
+a=int(input())
+y=set(input().split())
+b=int(input())
+z=set(input().split())
+n=y.union(z)
+print(len(n))
