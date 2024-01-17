@@ -69,4 +69,5 @@
 <li><a href="https://www.hackerrank.com/challenges/word-order/problem?isFullScreen=true">Word Order</li>
 <li><a href="https://www.hackerrank.com/challenges/compress-the-string/problem?isFullScreen=true">Compress the String!</li>
 <li><a href="https://www.hackerrank.com/challenges/most-commons/problem?isFullScreen=true">Company Logo</li>
+<li><a href="https://www.hackerrank.com/challenges/triangle-quest-2/problem?isFullScreen=true">Triangle Quest 2</li>
 </ul>
