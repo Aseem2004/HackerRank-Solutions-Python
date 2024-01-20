@@ -1,0 +1,6 @@
+x=int(input())
+a=set(input().split())
+y=int(input())
+b=set(input().split())
+z=a.intersection(b)
+print(len(z))
