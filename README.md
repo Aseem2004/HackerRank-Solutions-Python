@@ -57,6 +57,7 @@
 <li><a href="https://www.hackerrank.com/challenges/py-set-discard-remove-pop/problem?isFullScreen=true">Set .discard(), .remove() & .pop()</li>
 <li><a href="https://www.hackerrank.com/challenges/py-collections-deque/problem?isFullScreen=true">Collections.deque()</li>
 <li><a href="https://www.hackerrank.com/challenges/py-set-union/problem?isFullScreen=true">Set.union() Operation</li>
+<li><a href="https://www.hackerrank.com/challenges/py-set-intersection-operation/problem?isFullScreen=true">Set.intersection() Operation</li>
 </ul>
 <b>Medium:</b>
 <ul type="disc">
