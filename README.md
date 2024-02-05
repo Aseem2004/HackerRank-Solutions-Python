@@ -60,6 +60,7 @@
 <li><a href="https://www.hackerrank.com/challenges/py-set-intersection-operation/problem?isFullScreen=true">Set.intersection() Operation</li>
 <li><a href="https://www.hackerrank.com/challenges/python-mod-divmod/problem?isFullScreen=true">Mod Divmod</li>
 <li><a href="https://www.hackerrank.com/challenges/python-power-mod-power/problem?isFullScreen=true">Power - Mod Power</li>
+<li><a href="https://www.hackerrank.com/challenges/py-set-difference-operation/problem?isFullScreen=true">Set.difference() Operation</li>
 </ul>
 <b>Medium:</b>
 <ul type="disc">
