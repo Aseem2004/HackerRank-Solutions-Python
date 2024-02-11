@@ -77,3 +77,7 @@
 <li><a href="https://www.hackerrank.com/challenges/triangle-quest-2/problem?isFullScreen=true">Triangle Quest 2</li>
 <li><a href="https://www.hackerrank.com/challenges/iterables-and-iterators/problem?isFullScreen=true">Iterables and Iterators</li>
 </ul>
+<b>Hard:</b>
+<ul type="disc">
+<li><a href="https://www.hackerrank.com/challenges/maximize-it/problem?isFullScreen=true">Maximize It!</li>
+</ul>
