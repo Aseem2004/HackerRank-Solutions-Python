@@ -12,7 +12,7 @@
 <li>Community: There is a sizable user base on HackerRank that takes part in coding competitions and debates. You can gain information and experience from other users' expertise and experience by studying their solutions and participating in discussions forum.</li>
 </ol>
 </p>
-<p>I have provided my solutions(for Python) to the difficulties I took on for HackerRank in this repository. Feel free to fork this project and add whatever you like. If you have any suggestions or any comments please feel free to contact me or to open an issue, use free license art assets please.</p><br>
+<p>I have provided my solutions <b>(for Python)</b> in this repository. Feel free to fork this project and add whatever you like. If you have any suggestions or any comments please feel free to contact me or to open an issue, use free license art assets please.</p><br>
 <h2>Tabulation:</h2>
 <b>Easy:</b>
 <ul type="disc">
@@ -75,5 +75,5 @@
 <li><a href="https://www.hackerrank.com/challenges/most-commons/problem?isFullScreen=true">Company Logo</li>
 <li><a href="https://www.hackerrank.com/challenges/piling-up/problem?isFullScreen=true">Piling Up!</li>
 <li><a href="https://www.hackerrank.com/challenges/triangle-quest-2/problem?isFullScreen=true">Triangle Quest 2</li>
-<li><a href="https://www.hackerrank.com/challenges/iterables-and-iterators/problem?isFullScreen=true">Ierables and Iterators</li>
+<li><a href="https://www.hackerrank.com/challenges/iterables-and-iterators/problem?isFullScreen=true">Iterables and Iterators</li>
 </ul>
