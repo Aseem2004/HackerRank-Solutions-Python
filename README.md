@@ -61,6 +61,7 @@
 <li><a href="https://www.hackerrank.com/challenges/python-mod-divmod/problem?isFullScreen=true">Mod Divmod</li>
 <li><a href="https://www.hackerrank.com/challenges/python-power-mod-power/problem?isFullScreen=true">Power - Mod Power</li>
 <li><a href="https://www.hackerrank.com/challenges/py-set-difference-operation/problem?isFullScreen=true">Set.difference() Operation</li>
+<li><a href="https://www.hackerrank.com/challenges/python-integers-come-in-all-sizes/problem?isFullScreen=true">Integers Come In All Sizes</li>
 </ul>
 <b>Medium:</b>
 <ul type="disc">
