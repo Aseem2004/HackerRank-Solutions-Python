@@ -79,6 +79,7 @@
 <li><a href="https://www.hackerrank.com/challenges/piling-up/problem?isFullScreen=true">Piling Up!</li>
 <li><a href="https://www.hackerrank.com/challenges/triangle-quest-2/problem?isFullScreen=true">Triangle Quest 2</li>
 <li><a href="https://www.hackerrank.com/challenges/iterables-and-iterators/problem?isFullScreen=true">Iterables and Iterators</li>
+<li><a href="https://www.hackerrank.com/challenges/python-quest-1/problem?isFullScreen=true">Triangle Quest</li>
 </ul>
 <b>Hard:</b>
 <ul type="disc">
