@@ -63,6 +63,7 @@
 <li><a href="https://www.hackerrank.com/challenges/py-set-difference-operation/problem?isFullScreen=true">Set.difference() Operation</li>
 <li><a href="https://www.hackerrank.com/challenges/python-integers-come-in-all-sizes/problem?isFullScreen=true">Integers Come In All Sizes</li>
 <li><a href="https://www.hackerrank.com/challenges/py-set-symmetric-difference-operation/problem?isFullScreen=true">Set.symmetric_difference() Operation</li>
+<li><a href="https://www.hackerrank.com/challenges/py-set-mutations/problem?isFullScreen=true">Set Mutations</li>
 </ul>
 <b>Medium:</b>
 <ul type="disc">
