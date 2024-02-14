@@ -65,7 +65,8 @@
 <li><a href="https://www.hackerrank.com/challenges/py-set-symmetric-difference-operation/problem?isFullScreen=true">Set.symmetric_difference() Operation</li>
 <li><a href="https://www.hackerrank.com/challenges/py-set-mutations/problem?isFullScreen=true">Set Mutations</li>
 <li><a href="https://www.hackerrank.com/challenges/py-the-captains-room/problem?isFullScreen=true">The Captain's Room</li>
-<li><a href="https://www.hackerrank.com/challenges/py-check-subset/problem?isFullScreen=true">Check subset</li>
+<li><a href="https://www.hackerrank.com/challenges/py-check-subset/problem?isFullScreen=true">Check Subset</li>
+<li><a href="https://www.hackerrank.com/challenges/py-check-strict-superset/problem?isFullScreen=true">Check Strict Superset</li>
 </ul>
 <b>Medium:</b>
 <ul type="disc">
