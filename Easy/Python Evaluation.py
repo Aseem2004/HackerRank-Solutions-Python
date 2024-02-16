@@ -1,4 +1,4 @@
-x = input()
+x=input()
 if "print" in x :
     eval(x)
 else :
