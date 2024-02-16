@@ -67,6 +67,7 @@
 <li><a href="https://www.hackerrank.com/challenges/py-the-captains-room/problem?isFullScreen=true">The Captain's Room</li>
 <li><a href="https://www.hackerrank.com/challenges/py-check-subset/problem?isFullScreen=true">Check Subset</li>
 <li><a href="https://www.hackerrank.com/challenges/py-check-strict-superset/problem?isFullScreen=true">Check Strict Superset</li>
+<li><a href="https://www.hackerrank.com/challenges/zipped/problem?isFullScreen=true">Zipped!</li>
 </ul>
 <b>Medium:</b>
 <ul type="disc">
