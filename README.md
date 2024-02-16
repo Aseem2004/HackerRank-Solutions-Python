@@ -68,6 +68,7 @@
 <li><a href="https://www.hackerrank.com/challenges/py-check-subset/problem?isFullScreen=true">Check Subset</li>
 <li><a href="https://www.hackerrank.com/challenges/py-check-strict-superset/problem?isFullScreen=true">Check Strict Superset</li>
 <li><a href="https://www.hackerrank.com/challenges/zipped/problem?isFullScreen=true">Zipped!</li>
+<li><a href="https://www.hackerrank.com/challenges/python-eval/problem?isFullScreen=true">Python Evaluation</li>
 </ul>
 <b>Medium:</b>
 <ul type="disc">
