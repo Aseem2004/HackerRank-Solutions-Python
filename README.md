@@ -69,6 +69,7 @@
 <li><a href="https://www.hackerrank.com/challenges/py-check-strict-superset/problem?isFullScreen=true">Check Strict Superset</li>
 <li><a href="https://www.hackerrank.com/challenges/class-2-find-the-torsional-angle/problem?isFullScreen=true">Class 2 - Find the Torsional Angle</li>
 <li><a href="https://www.hackerrank.com/challenges/zipped/problem?isFullScreen=true">Zipped!</li>
+<li><a href="https://www.hackerrank.com/challenges/input/problem?isFullScreen=true">Input()</li>
 <li><a href="https://www.hackerrank.com/challenges/python-eval/problem?isFullScreen=true">Python Evaluation</li>
 </ul>
 <b>Medium:</b>
