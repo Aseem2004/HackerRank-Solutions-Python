@@ -71,6 +71,7 @@
 <li><a href="https://www.hackerrank.com/challenges/zipped/problem?isFullScreen=true">Zipped!</li>
 <li><a href="https://www.hackerrank.com/challenges/input/problem?isFullScreen=true">Input()</li>
 <li><a href="https://www.hackerrank.com/challenges/python-eval/problem?isFullScreen=true">Python Evaluation</li>
+<li><a href="https://www.hackerrank.com/challenges/any-or-all/problem?isFullScreen=true">Any or All</li>
 </ul>
 <b>Medium:</b>
 <ul type="disc">
