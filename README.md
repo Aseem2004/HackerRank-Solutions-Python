@@ -89,6 +89,7 @@
 <li><a href="https://www.hackerrank.com/challenges/iterables-and-iterators/problem?isFullScreen=true">Iterables and Iterators</li>
 <li><a href="https://www.hackerrank.com/challenges/python-quest-1/problem?isFullScreen=true">Triangle Quest</li>
 <li><a href="https://www.hackerrank.com/challenges/class-1-dealing-with-complex-numbers/problem?isFullScreen=true">Classes: Dealing with Complex Numbers</li>
+<li><a href="https://www.hackerrank.com/challenges/python-sort-sort/problem?isFullScreen=true">Athlete Sort</li>
 </ul>
 <b>Hard:</b>
 <ul type="disc">
