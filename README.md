@@ -72,6 +72,7 @@
 <li><a href="https://www.hackerrank.com/challenges/input/problem?isFullScreen=true">Input()</li>
 <li><a href="https://www.hackerrank.com/challenges/python-eval/problem?isFullScreen=true">Python Evaluation</li>
 <li><a href="https://www.hackerrank.com/challenges/any-or-all/problem?isFullScreen=true">Any or All</li>
+<li><a href="https://www.hackerrank.com/challenges/introduction-to-regex/problem?isFullScreen=true">Detect Floating Point Number</li>
 <li><a href="https://www.hackerrank.com/challenges/map-and-lambda-expression/problem?isFullScreen=true">Map and Lambda Function</li>
 </ul>
 <b>Medium:</b>
