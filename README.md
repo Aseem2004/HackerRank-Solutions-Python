@@ -74,6 +74,7 @@
 <li><a href="https://www.hackerrank.com/challenges/any-or-all/problem?isFullScreen=true">Any or All</li>
 <li><a href="https://www.hackerrank.com/challenges/introduction-to-regex/problem?isFullScreen=true">Detect Floating Point Number</li>
 <li><a href="https://www.hackerrank.com/challenges/map-and-lambda-expression/problem?isFullScreen=true">Map and Lambda Function</li>
+<li><a href="https://www.hackerrank.com/challenges/re-split/problem?isFullScreen=true">Re.split()</li>
 </ul>
 <b>Medium:</b>
 <ul type="disc">
