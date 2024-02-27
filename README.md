@@ -94,6 +94,8 @@
 <li><a href="https://www.hackerrank.com/challenges/class-1-dealing-with-complex-numbers/problem?isFullScreen=true">Classes: Dealing with Complex Numbers</li>
 <li><a href="https://www.hackerrank.com/challenges/python-sort-sort/problem?isFullScreen=true">Athlete Sort</li>
 <li><a href="https://www.hackerrank.com/challenges/ginorts/problem?isFullScreen=true">ginortS</li>
+<li><a href="https://www.hackerrank.com/challenges/validate-list-of-email-address-with-filter/problem?isFullScreen=true">Validating Email Addresses With a Filter</li>
+
 </ul>
 <b>Hard:</b>
 <ul type="disc">
