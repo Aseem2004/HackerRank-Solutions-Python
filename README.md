@@ -76,6 +76,7 @@
 <li><a href="https://www.hackerrank.com/challenges/map-and-lambda-expression/problem?isFullScreen=true">Map and Lambda Function</li>
 <li><a href="https://www.hackerrank.com/challenges/re-split/problem?isFullScreen=true">Re.split()</li>
 <li><a href="https://www.hackerrank.com/challenges/re-group-groups/problem?isFullScreen=true">Group(), Groups() & Groupdict()</li>
+<li><a href="https://www.hackerrank.com/challenges/re-findall-re-finditer/problem?isFullScreen=true">Re.findall() & Re.finditer()</li>
 </ul>
 <b>Medium:</b>
 <ul type="disc">
