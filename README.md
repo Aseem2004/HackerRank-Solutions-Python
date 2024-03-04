@@ -82,6 +82,7 @@
 <li><a href="https://www.hackerrank.com/challenges/validating-the-phone-number/problem?isFullScreen=true">Validating phone numbers</li>
 <li><a href="https://www.hackerrank.com/challenges/validating-named-email-addresses/problem?isFullScreen=true">Validating and Parsing Email Addresses</li>
 <li><a href="https://www.hackerrank.com/challenges/hex-color-code/problem?isFullScreen=true">Hex Color Code</li>
+<li><a href="https://www.hackerrank.com/challenges/html-parser-part-1/problem?isFullScreen=true">HTML Parser - Part 1</li>
 </ul>
 <b>Medium:</b>
 <ul type="disc">
