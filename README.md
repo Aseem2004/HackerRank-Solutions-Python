@@ -105,6 +105,7 @@
 <li><a href="https://www.hackerrank.com/challenges/validate-list-of-email-address-with-filter/problem?isFullScreen=true">Validating Email Addresses With a Filter</li>
 <li><a href="https://www.hackerrank.com/challenges/reduce-function/problem?isFullScreen=true">Reduce Function</li>
 <li><a href="https://www.hackerrank.com/challenges/re-sub-regex-substitution/problem?isFullScreen=true">Regex Substitution</li>
+<li><a href="https://www.hackerrank.com/challenges/validating-credit-card-number/problem?isFullScreen=true">Validating Credit Card Numbers</li>
 
 </ul>
 <b>Hard:</b>
