@@ -86,6 +86,7 @@
 <li><a href="https://www.hackerrank.com/challenges/html-parser-part-2/problem?isFullScreen=true">HTML Parser - Part 2</li>
 <li><a href="https://www.hackerrank.com/challenges/detect-html-tags-attributes-and-attribute-values/problem?isFullScreen=true">Detect HTML Tags, Attributes and Attribute Values</li>
 <li><a href="https://www.hackerrank.com/challenges/xml-1-find-the-score/problem?isFullScreen=true">XML 1 - Find the Score</li>
+<li><a hef="https://www.hackerrank.com/challenges/validating-uid/problem?isFullScreen=true">Validating UID</li>
 </ul>
 <b>Medium:</b>
 <ul type="disc">
