@@ -118,4 +118,5 @@
 <b>Hard:</b>
 <ul type="disc">
 <li><a href="https://www.hackerrank.com/challenges/maximize-it/problem?isFullScreen=true">Maximize It!</li>
+<li><a href="https://www.hackerrank.com/challenges/validating-postalcode/problem?isFullScreen=true">Validating Postal Codes</li>
 </ul>
