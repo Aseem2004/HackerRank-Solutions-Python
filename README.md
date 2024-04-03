@@ -120,4 +120,5 @@
 <ul type="disc">
 <li><a href="https://www.hackerrank.com/challenges/maximize-it/problem?isFullScreen=true">Maximize It!</li>
 <li><a href="https://www.hackerrank.com/challenges/validating-postalcode/problem?isFullScreen=true">Validating Postal Codes</li>
+<li><a href="https://www.hackerrank.com/challenges/matrix-script/problem?isFullScreen=true">Matrix Script</li>
 </ul>
