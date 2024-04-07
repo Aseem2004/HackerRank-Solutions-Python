@@ -86,7 +86,7 @@
 <li><a href="https://www.hackerrank.com/challenges/html-parser-part-2/problem?isFullScreen=true">HTML Parser - Part 2</li>
 <li><a href="https://www.hackerrank.com/challenges/detect-html-tags-attributes-and-attribute-values/problem?isFullScreen=true">Detect HTML Tags, Attributes and Attribute Values</li>
 <li><a href="https://www.hackerrank.com/challenges/xml-1-find-the-score/problem?isFullScreen=true">XML 1 - Find the Score</li>
-<li><a hef="https://www.hackerrank.com/challenges/validating-uid/problem?isFullScreen=true">Validating UID</li>
+<li><a href="https://www.hackerrank.com/challenges/validating-uid/problem?isFullScreen=true">Validating UID</li>
 <li><a href="https://www.hackerrank.com/challenges/xml2-find-the-maximum-depth/problem?isFullScreen=true">XML2 - Find the Maximum Depth</li>
 <li><a href="https://www.hackerrank.com/challenges/standardize-mobile-number-using-decorators/problem?isFullScreen=true">Standardize Mobile Number Using Decorators</li>
 <li><a href="https://www.hackerrank.com/challenges/decorators-2-name-directory/problem?isFullScreen=true">Decorators 2 - Name Directory</li>
