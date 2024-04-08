@@ -91,6 +91,7 @@
 <li><a href="https://www.hackerrank.com/challenges/standardize-mobile-number-using-decorators/problem?isFullScreen=true">Standardize Mobile Number Using Decorators</li>
 <li><a href="https://www.hackerrank.com/challenges/decorators-2-name-directory/problem?isFullScreen=true">Decorators 2 - Name Directory</li>
 <li><a href="https://www.hackerrank.com/challenges/np-arrays/problem?isFullScreen=true">Arrays</li>
+<li><a href="https://www.hackerrank.com/challenges/np-shape-reshape/problem?isFullScreen=true">Shape and Reshape</li>
 </ul>
 <b>Medium:</b>
 <ul type="disc">
