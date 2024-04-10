@@ -116,6 +116,7 @@
 <li><a href="https://www.hackerrank.com/challenges/re-sub-regex-substitution/problem?isFullScreen=true">Regex Substitution</li>
 <li><a href="https://www.hackerrank.com/challenges/validating-credit-card-number/problem?isFullScreen=true">Validating Credit Card Numbers</li>
 <li><a href="https://www.hackerrank.com/challenges/words-score/problem?isFullScreen=true">Words Score</li>
+<li><a href="https://www.hackerrank.com/challenges/default-arguments/problem?isFullScreen=true">Default Arguments</li>
 
 </ul>
 <b>Hard:</b>
