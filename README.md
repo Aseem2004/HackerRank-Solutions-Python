@@ -92,6 +92,7 @@
 <li><a href="https://www.hackerrank.com/challenges/decorators-2-name-directory/problem?isFullScreen=true">Decorators 2 - Name Directory</li>
 <li><a href="https://www.hackerrank.com/challenges/np-arrays/problem?isFullScreen=true">Arrays</li>
 <li><a href="https://www.hackerrank.com/challenges/np-shape-reshape/problem?isFullScreen=true">Shape and Reshape</li>
+<li><a href="https://www.hackerrank.com/challenges/np-transpose-and-flatten/problem?isFullScreen=true">Transpose and Flatten</li>
 </ul>
 <b>Medium:</b>
 <ul type="disc">
