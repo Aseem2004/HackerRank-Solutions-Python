@@ -93,6 +93,7 @@
 <li><a href="https://www.hackerrank.com/challenges/np-arrays/problem?isFullScreen=true">Arrays</li>
 <li><a href="https://www.hackerrank.com/challenges/np-shape-reshape/problem?isFullScreen=true">Shape and Reshape</li>
 <li><a href="https://www.hackerrank.com/challenges/np-transpose-and-flatten/problem?isFullScreen=true">Transpose and Flatten</li>
+<li><a href="https://www.hackerrank.com/challenges/np-concatenate/problem?isFullScreen=true">Concatenate</li>
 </ul>
 <b>Medium:</b>
 <ul type="disc">
