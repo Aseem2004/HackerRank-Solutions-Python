@@ -95,6 +95,7 @@
 <li><a href="https://www.hackerrank.com/challenges/np-transpose-and-flatten/problem?isFullScreen=true">Transpose and Flatten</li>
 <li><a href="https://www.hackerrank.com/challenges/np-concatenate/problem?isFullScreen=true">Concatenate</li>
 <li><a href="https://www.hackerrank.com/challenges/np-zeros-and-ones/problem?isFullScreen=true">Zeros and Ones</li>
+<li><a href="https://www.hackerrank.com/challenges/np-eye-and-identity/problem?isFullScreen=true">Eye and Identity</li>
 </ul>
 <b>Medium:</b>
 <ul type="disc">
