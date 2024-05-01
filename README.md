@@ -97,6 +97,7 @@
 <li><a href="https://www.hackerrank.com/challenges/np-zeros-and-ones/problem?isFullScreen=true">Zeros and Ones</li>
 <li><a href="https://www.hackerrank.com/challenges/np-eye-and-identity/problem?isFullScreen=true">Eye and Identity</li>
 <li><a href="https://www.hackerrank.com/challenges/np-array-mathematics/problem?isFullScreen=true">Array Mathematics</li>
+<li><a href="https://www.hackerrank.com/challenges/floor-ceil-and-rint/problem?isFullScreen=true">Floor, Ceil and Rint</li>
 </ul>
 <b>Medium:</b>
 <ul type="disc">
