@@ -100,6 +100,7 @@
 <li><a href="https://www.hackerrank.com/challenges/floor-ceil-and-rint/problem?isFullScreen=true">Floor, Ceil and Rint</li>
 <li><a href="https://www.hackerrank.com/challenges/np-sum-and-prod/problem?isFullScreen=true">Sum and Prod</li>
 <li><a href="https://www.hackerrank.com/challenges/np-min-and-max/problem?isFullScreen=true">Min and Max</li>
+<li><a href="https://www.hackerrank.com/challenges/np-mean-var-and-std/problem?isFullScreen=true">Mean, Var, and Std</li>
 </ul>
 <b>Medium:</b>
 <ul type="disc">
