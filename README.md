@@ -102,6 +102,7 @@
 <li><a href="https://www.hackerrank.com/challenges/np-min-and-max/problem?isFullScreen=true">Min and Max</li>
 <li><a href="https://www.hackerrank.com/challenges/np-mean-var-and-std/problem?isFullScreen=true">Mean, Var, and Std</li>
 <li><a href="https://www.hackerrank.com/challenges/np-dot-and-cross/problem?isFullScreen=true">Dot and Cross</li>
+<li><a href="https://www.hackerrank.com/challenges/np-inner-and-outer/problem?isFullScreen=true">Inner and Outer</li>
 </ul>
 <b>Medium:</b>
 <ul type="disc">
