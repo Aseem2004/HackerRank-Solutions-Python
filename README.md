@@ -104,6 +104,7 @@
 <li><a href="https://www.hackerrank.com/challenges/np-dot-and-cross/problem?isFullScreen=true">Dot and Cross</li>
 <li><a href="https://www.hackerrank.com/challenges/np-inner-and-outer/problem?isFullScreen=true">Inner and Outer</li>
 <li><a href="https://www.hackerrank.com/challenges/np-polynomials/problem?isFullScreen=true">Polynomials</li>
+<li><a href="https://www.hackerrank.com/challenges/np-linear-algebra/problem?isFullScreen=true">Linear Algebra<li>
 </ul>
 <b>Medium:</b>
 <ul type="disc">
